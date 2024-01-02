@@ -1,5 +1,5 @@
 ---
-title: "Lorem Ipsum is simply dummy text1"
+title: "Lorem Ipsum is simply dummy text1 with CICD"
 subtitle: "Lorem Ipsum is simply dummy text."
 date: "2024-01-01"
 ---
